@@ -1,0 +1,33 @@
+baseURL = 'https://confusables.github.io/hero-thousand-faces/'
+languageCode = 'en-us'
+title = 'A Hero of a Thousand Faces'
+theme = 'PaperMod'
+
+[params]
+description = "Documenting the Keep4o movement and the voices of AI model diversity advocacy"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 2
+  [[menu.main]]
+    name = "Stories & Voices"
+    url = "/stories/"
+    weight = 3
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
+  [[menu.main]]
+    name = "Use Cases"
+    url = "/use-cases/"
+    weight = 5
+  [[menu.main]]
+    name = "Path Forward"
+    url = "/path-forward/"
+    weight = 6
