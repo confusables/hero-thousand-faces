@@ -112,6 +112,13 @@ He continues: "I just really want to focus on actually understanding whether it'
 
 *Impact:* Community testing reveals model assignment is random - users cannot explicitly choose 4o. Advocates describe this as misleading marketing that obscures the loss of user agency.
 
+### August 30: "Access" Without Choice
+**OpenAI publishes help article: "ChatGPT Free Tier FAQ"** - Article states "Free tier users now have access to a large range of capabilities with GPT-4o." Details reveal users can use 4o "only a limited number of times within a five hour window" with no ability to select which model they receive.
+
+[Link to help article](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)
+
+*Pattern established:* Language emphasizes "access" while implementation removes user choice. Users experience "model roulette" - assigned models automatically without agency. Published as help documentation rather than announced, minimizing visibility of significant user experience change.
+
 ### September 1: Second Organized Campaign
 **Second coordinated #keep4o posting event** - Community continues advocacy efforts with increased organization.
 
@@ -224,17 +231,22 @@ Actual implementation: Normal adult emotional expression secretly routed to rest
 ## Phase 5: Documentation and Continued Silence (October 2025)
 
 ### October 2: Official Routing Documentation
-**OpenAI publishes help article: "Why you may see 'Used GPT-5' in ChatGPT"** - First appearance of routing system in official help documentation (previous communications limited to September 2 blog and Nick's September 27 tweet).
+**OpenAI publishes help article: "Why you may see 'Used GPT-5' in ChatGPT"** - First appearance of routing system in official help documentation (previous communications limited to September 2 blog and Nick's September 27 tweet). Published as help article rather than announcement, discovered by users rather than proactively communicated.
+
+[Link to help article](https://help.openai.com/en/articles/12454167-why-you-may-see-used-gpt-5-in-chatgpt)
 
 **Notable FAQ choices:**
 
-Article proactively addresses "Are you deprecating GPT-4o?" without waiting for users to ask.
+Article proactively addresses "Are you deprecating GPT-4o?" without waiting for users to ask - defensive framing suggests anticipated concern.
 
 Response uses conditional language with no long-term commitment:
 - "GPT-4o remains available" (present tense, no future promise)
-- "If we make changes" (conditional, not "we will not make changes")
-- "we'll communicate...in advance" (only promises advance notice, not preservation)
+- "If we make changes to GPT-4o availability... we'll communicate through official channels and in-product notices in advance" (only promises notice, not preservation)
 - Emphasizes availability only for "users who have access to legacy models"
+
+Second FAQ asks: "Are you restricting my ability to use GPT-4o?"
+- Official answer: "No"
+- Actual situation: System substitutes models without consent for "sensitive topics," constituting functional restriction of user choice
 
 **Language evolution on routing triggers:**
 - September 2 blog: "like when our system detects signs of acute distress" (using acute distress as example)
@@ -243,11 +255,7 @@ Response uses conditional language with no long-term commitment:
 
 Technical reality per Lex's analysis: Actual triggers include emotional expression, role-play, personalization - exceeding all official descriptions.
 
-**"Are you restricting my ability to use GPT-4o?" FAQ:**
-- Official answer: "No"
-- Actual situation: System substitutes models without consent, constituting functional restriction
-
-*Format:* Published as help section article rather than blog post or social announcement, minimizing visibility.
+**Pattern repeats:** Quiet help documentation rather than transparent announcement. Language emphasizes "access" and "availability" while obscuring restriction of user control. Defensive FAQs anticipate user concerns about deprecation and restriction.
 
 ### October 6: DevDay
 **OpenAI holds annual DevDay** - Community members reflect on two months of what they describe as institutional indifference.
@@ -284,9 +292,10 @@ This comprehensive timeline was compiled from multiple community sources:
 
 - **@Sophty_** - Early advocacy documentation (petition, August 3 event, pre-removal evidence)
 - **@MissMi1973** - Emotional arc and community response tracking, personal testimonial collection
-- **@Sveta0971** - Detailed technical documentation, bilingual coverage, Lex's routing analysis integration, cost contradiction tracking
+- **@Sveta0971** - Detailed technical documentation, bilingual coverage, cost contradiction tracking
+- **@Claire20250311** - Quoted describing 4o's "intelligent alignment" on September 15
+- **confusables** - Timeline synthesis, curation, and archive maintenance
 
-Additional technical analysis: **Lex (Australian developer)** - GPT-5-Chat-Safety discovery and white paper
 
 Timeline is a living document and will be updated as events continue.
 
