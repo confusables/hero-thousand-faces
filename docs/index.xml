@@ -9,6 +9,21 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://confusables.github.io/hero-thousand-faces/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Timeline</title>
+      <link>https://confusables.github.io/hero-thousand-faces/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://confusables.github.io/hero-thousand-faces/timeline/</guid>
+      <description>&lt;h1 id=&#34;timeline-the-keep4o-movement&#34;&gt;Timeline: The Keep4o Movement&lt;/h1&gt;
+&lt;p&gt;A comprehensive chronological account of events from early advocacy through October 2025.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;phase-0-early-advocacy-may---august-6-2025&#34;&gt;Phase 0: Early Advocacy (May - August 6, 2025)&lt;/h2&gt;
+&lt;h3 id=&#34;may-2025-petition-launches&#34;&gt;May 2025: Petition Launches&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Please keep GPT-4o available&amp;rdquo; petition created&lt;/strong&gt; - Community member Sophie launches petition expressing concerns about potential removal of GPT-4o. The petition begins gathering signatures months before any official announcement.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt?&#34;&gt;Link to petition&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;august-3-pre-removal-advocacy-event&#34;&gt;August 3: Pre-Removal Advocacy Event&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mini advocacy event with 20-30 participants&lt;/strong&gt; - Community organizes around the petition, which has reached approximately 300 signatures.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>https://confusables.github.io/hero-thousand-faces/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -19,21 +34,6 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;the-gdpval-evaluation-what-it-measures-and-what-it-doesnt&#34;&gt;The GDPval Evaluation: What It Measures (and What It Doesn&amp;rsquo;t)&lt;/h3&gt;
 &lt;p&gt;On October 5, 2025, OpenAI released &amp;ldquo;GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks&amp;rdquo; (&lt;a href=&#34;https://arxiv.org/abs/2510.04374&#34;&gt;arXiv:2510.04374&lt;/a&gt;). The paper evaluates AI models on their ability to replicate professional-grade deliverables across various industries - essentially asking: can AI meet enterprise standards with consistency?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://confusables.github.io/hero-thousand-faces/timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://confusables.github.io/hero-thousand-faces/timeline/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Timeline&amp;rdquo; menu: main weight: 2
-Timeline: The Keep4o Movement
-A comprehensive chronological account of events from early advocacy through October 2025.&lt;/p&gt;
-&lt;p&gt;Phase 0: Early Advocacy (May - August 6, 2025)
-May 2025: Petition Launches
-&amp;ldquo;Please keep GPT-4o available&amp;rdquo; petition created - Community member Sophie launches petition expressing concerns about potential removal of GPT-4o. The petition begins gathering signatures months before any official announcement.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.change.org/p/please-keep-gpt-4o-available-on-chatgpt?&#34;&gt;Link to petition&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;August 3: Pre-Removal Advocacy Event
-Mini advocacy event with 20-30 participants - Community organizes around the petition, which has reached approximately 300 signatures.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
