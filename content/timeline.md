@@ -89,7 +89,7 @@ He continues: "I just really want to focus on actually understanding whether it'
 
 **Instead, during the campaign, Altman quote-tweets a post** suggesting users who don't find GPT-5 useful are likely treating models as "girlfriends" or at least aren't using them for complex programming tasks.
 
-[Link to quote-tweet] (https://x.com/sama/status/1958922435249754382)
+[Link to quote-tweet](https://x.com/sama/status/1958922435249754382)
 
 *Impact:* Many community members report this as the moment they felt publicly labeled as "second-class users" by the CEO of a service they pay for. From this point forward, much of OpenAI and executive team's posts focus heavily on coders and Codex users. Advocates report experiencing online harassment after becoming vocal.
 
