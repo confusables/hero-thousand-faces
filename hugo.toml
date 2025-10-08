@@ -2,6 +2,7 @@ baseURL = 'https://confusables.github.io/hero-thousand-faces/'
 languageCode = 'en-us'
 title = 'A Hero of a Thousand Faces'
 theme = 'PaperMod'
+publishDir = 'docs'
 
 [params]
 description = "Documenting the Keep4o movement and the voices of AI model diversity advocacy"
