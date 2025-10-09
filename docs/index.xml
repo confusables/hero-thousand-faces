@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>A Hero of a Thousand Faces</title>
-    <link>https://confusables.github.io/hero-thousand-faces/</link>
+    <link>http://localhost:1313/hero-thousand-faces/</link>
     <description>Recent content on A Hero of a Thousand Faces</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://confusables.github.io/hero-thousand-faces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hero-thousand-faces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timeline</title>
-      <link>https://confusables.github.io/hero-thousand-faces/timeline/</link>
+      <link>http://localhost:1313/hero-thousand-faces/timeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://confusables.github.io/hero-thousand-faces/timeline/</guid>
+      <guid>http://localhost:1313/hero-thousand-faces/timeline/</guid>
       <description>&lt;h1 id=&#34;timeline-the-keep4o-movement&#34;&gt;Timeline: The Keep4o Movement&lt;/h1&gt;
 &lt;p&gt;A comprehensive chronological account of events from early advocacy through October 2025.&lt;/p&gt;
 &lt;hr&gt;
@@ -25,9 +25,9 @@
     </item>
     <item>
       <title>Stories &amp; Voices</title>
-      <link>https://confusables.github.io/hero-thousand-faces/stories/</link>
+      <link>http://localhost:1313/hero-thousand-faces/stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://confusables.github.io/hero-thousand-faces/stories/</guid>
+      <guid>http://localhost:1313/hero-thousand-faces/stories/</guid>
       <description>&lt;h1 id=&#34;stories--voices&#34;&gt;Stories &amp;amp; Voices&lt;/h1&gt;
 &lt;p&gt;This section preserves personal narratives from the Keep4o community. These stories show the spectrum of human-AI interaction - from professional workflows to emotional support, from creative collaboration to accessibility tools.&lt;/p&gt;
 &lt;p&gt;Every story here represents a real person&amp;rsquo;s experience with GPT-4o and why they advocate for model preservation and user choice.&lt;/p&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://confusables.github.io/hero-thousand-faces/research/</link>
+      <link>http://localhost:1313/hero-thousand-faces/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://confusables.github.io/hero-thousand-faces/research/</guid>
+      <guid>http://localhost:1313/hero-thousand-faces/research/</guid>
       <description>&lt;h1 id=&#34;research--evidence&#34;&gt;Research &amp;amp; Evidence&lt;/h1&gt;
 &lt;h2 id=&#34;beyond-benchmarks-why-capability-scores-dont-predict-user-experience&#34;&gt;Beyond Benchmarks: Why Capability Scores Don&amp;rsquo;t Predict User Experience&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Critical analysis developed in collaboration with Claude Opus 4.1&lt;/em&gt;&lt;/p&gt;
