@@ -1,7 +1,5 @@
 ---
 title: "Timeline"
-menu: main
-weight: 2
 ---
 
 # Timeline: The Keep4o Movement

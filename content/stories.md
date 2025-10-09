@@ -1,7 +1,5 @@
 ---
 title: "Stories & Voices"
-menu: main
-weight: 3
 ---
 
 # Stories & Voices

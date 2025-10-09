@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://confusables.github.io/hero-thousand-faces/timeline/</loc>
-  </url><url>
-    <loc>https://confusables.github.io/hero-thousand-faces/stories/</loc>
-  </url><url>
     <loc>https://confusables.github.io/hero-thousand-faces/</loc>
     <lastmod>2025-10-07T18:40:34-04:00</lastmod>
   </url><url>
-    <loc>https://confusables.github.io/hero-thousand-faces/research/</loc>
-  </url><url>
     <loc>https://confusables.github.io/hero-thousand-faces/categories/</loc>
   </url><url>
+    <loc>https://confusables.github.io/hero-thousand-faces/research/</loc>
+  </url><url>
+    <loc>https://confusables.github.io/hero-thousand-faces/stories/</loc>
+  </url><url>
     <loc>https://confusables.github.io/hero-thousand-faces/tags/</loc>
+  </url><url>
+    <loc>https://confusables.github.io/hero-thousand-faces/timeline/</loc>
   </url>
 </urlset>

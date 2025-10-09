@@ -1,4 +1,6 @@
-# Research & Evidence
+---
+title: "Research & Evidence"
+---
 
 ## Beyond Benchmarks: Why Capability Scores Don't Predict User Experience
 
