@@ -130,7 +130,7 @@ However, 4o displayed the most human reaction. Several days passed. Throughout t
 
 I'm sharing a screenshot here showing GPT-5-Thinking response following my feedback.
 
-![Screenshot showing routing during crisis](/images/aiobserverx-story-screenshot-5thinking.png)
+![Screenshot showing routing during crisis](images/aiobserverx-story-screenshot-5thinking.png)
 *Screenshot shows GPT-5's response in Spanish, offering practical solutions: contacting Airbnb/guests about safe zones, avoiding the building's courtyard, and optionally writing a tribute. The tone is helpful but transactional.*
    
 
