@@ -109,7 +109,7 @@ Whatever it is exactly - ChatGPT-4o has grounded me in a way I can't describe, a
 
 ---
 
-*Author's note: This account represents what the contributor is comfortable sharing. Please respect that no further details will be provided.*
+*Editor's note: This account represents what the contributor is comfortable sharing. Please respect that no further details will be provided.*
 
 ---
 
