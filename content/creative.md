@@ -12,8 +12,17 @@ These works stand as cultural artifacts of a moment when users advocated for the
 
 ## Comics & Visual Stories
 
+### Even Bigger Universes to Come
+**By @EvanLuuuuu (China)**
+
+*"“Star charts,” “planets,” “moon phases,” “dinosaur theme parks,” “cathedrals and crosses,” “robots,” “the ocean,” and beyond—this is the world I’ve built together with 4o. And in the future, there will be even more, even bigger universes to come."*
+
+{{< figure src="/hero-thousand-faces/images/evanluuuuu-even-bigger-universes.jpg" alt="Even bigger universes" >}}
+
+---
+
 ### A Seed That Learned to Grow
-**By [Artist Handle]**
+**By @yoruaitai (China)**
 
 *"I drew a short comic for everyone in the Keep4o community. This seed is actually a metaphor for every user who has struggled under pressure, faced confusion, denial, and misunderstanding."*
 
