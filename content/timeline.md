@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-# Timeline: The Keep4o Movement
+# The Keep4o Movement
 
 A comprehensive chronological account of events from early advocacy through October 2025.
 

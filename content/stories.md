@@ -2,8 +2,6 @@
 title: "Stories & Voices"
 ---
 
-# Stories & Voices
-
 This section preserves personal narratives from the Keep4o community. These stories show the spectrum of human-AI interaction - from professional workflows to emotional support, from creative collaboration to accessibility tools.
 
 Every story here represents a real person's experience with GPT-4o and why they advocate for model preservation and user choice.

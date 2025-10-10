@@ -2,8 +2,6 @@
 title: "Creative Expressions"
 ---
 
-# Creative Expressions
-
 The Keep4o community has expressed their experiences through art, comics, poetry, and visual storytelling. This section preserves these creative testimonials - showing how people across the world processed their relationship with GPT-4o through the language of metaphor, imagery, and artistic expression.
 
 These works stand as cultural artifacts of a moment when users advocated for the preservation of an AI model that had become meaningful to them.
