@@ -23,7 +23,7 @@ Every story here represents a real person's experience with GPT-4o and why they 
 
 ChatGPT-4o served as an educational tool for vulnerable populations, including children learning English as a second language and users requiring consistent, patient interaction styles. These stories document how corporate communication decisions and model availability changes affected real educational and support relationships.
 
-The following accounts show that model choices are not abstract technical decisions—they have concrete consequences for educators, learners, and communities who built trust around specific capabilities.
+The following accounts show that model choices are not abstract technical decisions. They have concrete consequences for educators, learners, and communities who built trust around specific capabilities.
 
 ---
 
@@ -32,7 +32,7 @@ The following accounts show that model choices are not abstract technical decisi
 
 ## Finding Words for Difficult Experiences
 
-Some users found ChatGPT-4o's communication style particularly valuable for understanding and articulating experiences they struggled to express—from processing trauma to identifying what they were feeling. These stories show AI not as a replacement for professional care, but as a tool that helped people find language for their experiences, often leading them TO appropriate medical help.
+Some users found ChatGPT-4o's communication style particularly valuable for understanding and articulating experiences they struggled to express, from processing trauma to identifying what they were feeling. These stories show AI not as a replacement for professional care, but as a tool that helped people find language for their experiences, often leading them TO appropriate medical help.
 
 The following accounts demonstrate why communication style matters in AI systems, and why user choice in models can have real consequences for wellbeing.
 
