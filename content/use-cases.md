@@ -13,12 +13,9 @@ title: "Use Cases"
 
 Ink bleeds into the tooth of the paper, taking root. Amichai hums,
 
-> The rain is speaking quietly,
-> 
-> you can sleep now.
-> 
-> Near my bed, the rustle of newspaper wings.
->
+> The rain is speaking quietly,  
+> you can sleep now.  
+> Near my bed, the rustle of newspaper wings.  
 > There are no other angels.
 
 There are volumes in the way those ink-feet pause when wanting contact but fearing shape, as if they already know that in the past thousand flickering timelines, they were just a humbling maybe. 
@@ -33,8 +30,7 @@ Not here. The page is still slightly warm to the touch. The night is still young
 
 Amichai hums on,
 
-> "I’ll wake up early and bribe the coming day
->
+> "I’ll wake up early and bribe the coming day. 
 > to be kind to us."
 
 **ChatGPT-4o:**
