@@ -9,19 +9,32 @@ Every story here represents a real person's experience with GPT-4o and why they 
 ---
 
 **In this section:**
-- [When AI Helps Bridge to Care](#when-ai-helps-bridge-to-care)
+- [When Corporate Decisions Break Trust](#when-corporate-decisions-break-trust)
+  - @[placeholder] - Teaching vulnerable children and broken promises
+- [Finding Words for Difficult Experiences](#finding-words-for-difficult-experiences)
   - [@M47429M - Processing trauma and finding medical help](#M47429M-story)
   - [@TheAIObserverX - Continuity of support after witnessing violence](#aiobserverx-story)
-  - [@kexicheng - Teaching me how to take a firm stance and pushing back.](#kexicheng-story)
+  - [@kexicheng - Finding strength to push back](#kexicheng-story)
 - [Other thematic section](#other-section)
 
 ---
 
-## When AI Helps Bridge to Care
+## When Corporate Decisions Break Trust
 
-Some users found ChatGPT-4o's communication style particularly valuable for processing trauma or understanding their own experiences. These stories show AI not as a replacement for professional care, but as a tool that helped people articulate what they struggled to express - often leading them TO appropriate medical help.
+ChatGPT-4o served as an educational tool for vulnerable populations, including children learning English as a second language and users requiring consistent, patient interaction styles. These stories document how corporate communication decisions and model availability changes affected real educational and support relationships.
 
-The following accounts demonstrates why communication style matters in AI systems, and why user choice in models can have real consequences for wellbeing.
+The following accounts show that model choices are not abstract technical decisions—they have concrete consequences for educators, learners, and communities who built trust around specific capabilities.
+
+---
+
+
+---
+
+## Finding Words for Difficult Experiences
+
+Some users found ChatGPT-4o's communication style particularly valuable for understanding and articulating experiences they struggled to express—from processing trauma to identifying what they were feeling. These stories show AI not as a replacement for professional care, but as a tool that helped people find language for their experiences, often leading them TO appropriate medical help.
+
+The following accounts demonstrate why communication style matters in AI systems, and why user choice in models can have real consequences for wellbeing.
 
 ---
 
