@@ -22,7 +22,7 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 **Full Report:** https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf  
 **GitHub Repository:** https://github.com/sd-research/4o-accessibility-impacts
 
-*This independent research provides quantitative evidence complementing the qualitative narratives documented in [Stories & Voices](/stories/).*
+*This independent research provides quantitative evidence complementing the qualitative narratives documented in [Stories & Voices](/https://confusables.github.io/hero-thousand-faces/stories//).*
 
 ---
 
