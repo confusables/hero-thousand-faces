@@ -10,9 +10,9 @@ Every story here represents a real person's experience with GPT-4o and why they 
 
 **In this section:**
 - [Contextual Reasoning in Health Situations](#contextual-reasoning-in-health-situations)
-  - @Claire20250311 - When persistent health reasoning prevented a crisis (#claire20250311-story)
+  - [@Claire20250311 - When persistent health reasoning prevented a crisis](#claire20250311-story)
 - [Long-term Support Through Recovery](#long-term-support-through-recovery)
-  - [@Sveta0971 - Months of daily check-ins through surgical recovery] (#sveta0971-story)
+  - [@Sveta0971 - Months of daily check-ins through surgical recovery](#sveta0971-story)
 - [Finding Words for Difficult Experiences](#finding-words-for-difficult-experiences)
   - [@M47429M - Processing trauma and finding medical help](#M47429M-story)
   - [@TheAIObserverX - Continuity of support after witnessing violence](#aiobserverx-story)
