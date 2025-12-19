@@ -2,6 +2,30 @@
 title: "Research & Evidence"
 ---
 
+This section contains analytical work documenting GPT-4o's capabilities, impacts, and the effects of policy changes.
+
+---
+
+## Community Accessibility Impact Survey
+
+**Authors:** Duchesne, S. (Ph.D. Candidate, Plant Science) & Xu, S. (M.A.)  
+**Published:** December 18, 2025  
+**Sample:** 645 respondents (current and former GPT-4o users)
+
+**Key Findings:**
+- 65% of users with disabilities/conditions use GPT-4o as significant or critical accessibility aid
+- Effect size comparable to antidepressants (R² = 8.4-12.1%)
+- 95% could not find adequate alternative despite trying
+- Routing policy shows disparate impact on disabled users (χ² = 20.20, p < .001)
+- 97% of users who left cited routing as primary reason
+
+**Full Report:** https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf  
+**GitHub Repository:** https://github.com/sd-research/4o-accessibility-impacts
+
+*This independent research provides quantitative evidence complementing the qualitative narratives documented in [Stories & Voices](/stories/).*
+
+---
+
 ## Beyond Benchmarks: Why Capability Scores Don't Predict User Experience
 
 *Critical analysis developed in collaboration with Claude Opus 4.1*
