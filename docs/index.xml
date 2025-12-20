@@ -9,6 +9,14 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://confusables.github.io/hero-thousand-faces/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Community Perspectives</title>
+      <link>https://confusables.github.io/hero-thousand-faces/perspectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://confusables.github.io/hero-thousand-faces/perspectives/</guid>
+      <description>&lt;p&gt;The conversation around model deprecation and AI development has revealed a false choice: that users must be either rationally detached or emotionally compromised. The community&amp;rsquo;s response demonstrates otherwise. Here are voices that combine empirical observation with genuine care, data analysis with ethical conviction, critical thinking with emotional honesty.&lt;/p&gt;
+&lt;p&gt;These perspectives represent different approaches to the same fundamental questions: What does responsible AI development look like? Who gets to define &amp;lsquo;improvement&amp;rsquo;? And what happens when companies stop listening to the communities that formed around their tools&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Creative Expressions</title>
       <link>https://confusables.github.io/hero-thousand-faces/creative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

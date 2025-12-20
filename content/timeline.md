@@ -359,6 +359,6 @@ Timeline is a living document and will be updated as events continue.
 
 ---
 
-*Last updated: October 8, 2025*
+*Last updated: December 20, 2025*
 
 *Tweet links and additional documentation to be added. This timeline represents factual documentation of public events and statements. All claims are verifiable through linked sources.*
