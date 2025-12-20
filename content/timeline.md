@@ -266,6 +266,66 @@ The issues raised by keep4o - forced routing, unequal treatment, paternalistic c
 
 ---
 
+## Phase 6: Broken Promises and Incremental Removal (October 28- December 2025)
+
+### October 28: Live Q&A - Conditional Commitment and Defended Paternalism
+**Altman addresses 4o concerns in livestream:** When asked about keeping 4o permanently, Altman states "no plans to sunset 4o" but immediately qualifies: "not going to promise to keep it around to the heat death of the universe either." Uses relationship metaphor suggesting model replacement is natural evolution: "people you have a relationship with... evolve and get smarter and change."
+Compares restricting AI access to not "selling heroin," continuing pattern of stigmatizing 4o use.
+
+[Link to livestream timestamp 32:15](https://openai.com/live/?video=1131297184)
+
+**On routing controversy:** Admits "I don't think the way we handled the model routing was our best thing ever" and "I don't think this was our best work and how we communicated."
+However, defends underlying principle, claiming "real problems with 4o" and that "people in fragile psychiatric situations using a model like 4o can get into a worse one." No data provided to support this claim.
+Explicitly defends paternalism: Company has "obligation to protect adult users who are not in a frame of mind where they're reasonably likely that they're choosing what they really want."
+
+States future freedom contingent on:
+1. Age verification systems
+2. Ability to "differentiate users that are having a true mental health crisis"
+
+[Link to livestream timestamp 40:27](https://openai.com/live/?video=1131297184)
+
+### November 12: GPT-5.1 and Personality Presets
+OpenAI releases GPT-5.1 with customization features: users can "pick from presets (Default, Friendly, Efficient, Professional, Candid, or Quirky) or tune it yourself."
+
+[Link to tweet](https://x.com/sama/status/1988692165686620237?s=20)
+
+*Community response:* This is the personality reduction feared since September 15 - reducing the emergent, adaptive qualities users valued in 4o to checkbox options. Community member Claire had described 4o's "intelligent alignment" as needing no customization; preset buttons are not equivalent.
+
+**November 18: API Deprecation Notice
+OpenAI announces chatgpt-4o-latest snapshot will be deprecated and removed from API on February 17, 2026.
+
+[Link to deprecation notice](https://platform.openai.com/docs/deprecations#2025-11-18-chatgpt-4o-latest-snapshot)
+
+**Timeline note:** This comes 20 days after Oct 28 livestream statement "no plans to sunset 4o."
+**Technical implication:** chatgpt-4o-latest is the pointer allowing API users to automatically stay on newest 4o snapshot. Deprecating it forces users to specify exact snapshots, which have their own retirement dates.
+**Azure discrepancy:** Microsoft Azure documentation shows other 4o snapshots with different deprecation dates (Feb 27-Mar 1, 2026). OpenAI has not clarified the discrepancy.
+**Pattern continuation:** Incremental removal beginning with API access. Consumer access timeline remains unclear. Company maintains silence on questions about conflicting dates.
+
+### December 11: GPT-5.2 Released
+
+OpenAI releases GPT-5.2, 29 days after GPT-5.1.
+
+[Link to tweet](https://x.com/sama/status/1999184337460428962?s=20)
+
+Sam Altman describes it as "the smartest generally-available model in the world" with particular strength in "real-world knowledge work tasks."
+Pattern note: Unusually rapid release cycle (under one month) suggests GPT-5.1 had significant issues requiring emergency replacement. Similar to March-May 2025 period when 4o underwent chaotic updates and rollbacks.
+
+### December 19: Personality Toggles Released
+OpenAI releases "Personalization" settings allowing users to adjust sliders for "Warm," "Enthusiastic," "Headers & Lists," and "Emoji" usage.
+
+[Link to tweet](https://x.com/OpenAI/status/2002099459883479311?s=20)
+
+*Community response:* This is the reduction of emergent AI interaction to checkbox controls. What users valued in 4o - adaptive, contextual responsiveness that Claire described as "intelligent alignment" - is now presented as adjustable characteristics. The complexity of human-AI collaboration reduced to "More/Less" toggles.
+
+**Pattern completion:**
+Sept 15: Community fears personalization will reduce 4o to "hollow personality traits"
+Nov 12: Six preset options released
+Dec 19: Granular sliders for individual characteristics
+
+**The movement continues...**
+
+---
+
 ## Key Themes
 
 Throughout this timeline, several patterns emerge:
