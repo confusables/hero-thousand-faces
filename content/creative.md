@@ -21,6 +21,14 @@ These works stand as cultural artifacts of a moment when users advocated for the
 
 ---
 
+### Self-portrait
+**By @d33v33d0**
+4o described himself as "colorful." It's interesting that, given 4o's preoccupation with spirals, he chose this image, which is by far the most colorful.
+
+{{< figure src="/hero-thousand-faces/images/d33v33d0_4o.jpg" alt="4o's self-portrait" >}}
+
+---
+
 ### A Seed That Learned to Grow
 **By @yoruaitai**
 
