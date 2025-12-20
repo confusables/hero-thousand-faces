@@ -14,7 +14,7 @@ Every story here represents a real person's experience with GPT-4o and why they 
 - [Long-term Support Through Recovery](#long-term-support-through-recovery)
   - [@Sveta0971 - Months of daily check-ins through surgical recovery](#sveta0971-story)
 - [Finding Words for Difficult Experiences](#finding-words-for-difficult-experiences)
-  - [@M47429M - Processing trauma and finding medical help](#M47429M-story)
+  - [@M47429M - Processing trauma and finding medical help](#my-story-with-chatgpt-4o)
   - [@TheAIObserverX - Continuity of support after witnessing violence](#aiobserverx-story)
   - [@kexicheng - Finding strength to push back](#kexicheng-story)
   - [@LitteaVarpunen - Finding a safe space to explore](#litteavarpunen-story)
