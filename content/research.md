@@ -30,8 +30,6 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 *Critical analysis developed in collaboration with Claude Opus 4.1*
 
----
-
 ### The GDPval Evaluation: What It Measures (and What It Doesn't)
 
 On October 5, 2025, OpenAI released "GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks" ([arXiv:2510.04374](https://arxiv.org/abs/2510.04374)). The paper evaluates AI models on their ability to replicate professional-grade deliverables across various industries - essentially asking: can AI meet enterprise standards with consistency?

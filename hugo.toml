@@ -33,6 +33,6 @@ description = "Documenting the Keep4o movement and the voices of AI model divers
     url = "/use-cases/"
     weight = 6
   [[menu.main]]
-    name = "Path Forward"
-    url = "/path-forward/"
+    name = "Community Perspectives"
+    url = "/perspectives/"
     weight = 7
