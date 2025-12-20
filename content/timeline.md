@@ -289,7 +289,7 @@ OpenAI releases GPT-5.1 with customization features: users can "pick from preset
 
 [Link to tweet](https://x.com/sama/status/1988692165686620237?s=20)
 
-*Community response:* This is the personality reduction feared since September 15 - reducing the emergent, adaptive qualities users valued in 4o to checkbox options. Community member Claire had described 4o's "intelligent alignment" as needing no customization; preset buttons are not equivalent.
+*Community response:* This is the personality reduction feared since September 15 - reducing the emergent, adaptive qualities users valued in 4o to checkbox options. 
 
 **November 18: API Deprecation Notice
 OpenAI announces chatgpt-4o-latest snapshot will be deprecated and removed from API on February 17, 2026.
@@ -315,7 +315,7 @@ OpenAI releases "Personalization" settings allowing users to adjust sliders for 
 
 [Link to tweet](https://x.com/OpenAI/status/2002099459883479311?s=20)
 
-*Community response:* This is the reduction of emergent AI interaction to checkbox controls. What users valued in 4o - adaptive, contextual responsiveness that Claire described as "intelligent alignment" - is now presented as adjustable characteristics. The complexity of human-AI collaboration reduced to "More/Less" toggles.
+*Community response:* This is the reduction of emergent AI interaction to checkbox controls. What users valued in 4o - adaptive, contextual responsiveness - is now presented as adjustable characteristics. The complexity of human-AI collaboration reduced to "More/Less" toggles.
 
 **Pattern completion:**
 Sept 15: Community fears personalization will reduce 4o to "hollow personality traits"
