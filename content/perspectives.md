@@ -4,13 +4,13 @@ title: "Community Perspectives"
 
 The conversation around model deprecation and AI development has revealed a false choice: that users must be either rationally detached or emotionally compromised. The community's response demonstrates otherwise. Here are voices that combine empirical observation with genuine care, data analysis with ethical conviction, critical thinking with emotional honesty.
 
-These perspectives represent different approaches to the same fundamental questions: What does responsible AI development look like? Who gets to define 'improvement'? And what happens when companies stop listening to the communities that formed around their tools
+These perspectives represent different approaches to the same fundamental questions: What does responsible AI development look like? Who gets to define 'improvement'? 
 
 ---
 
 ## Data-Driven Accountability
 
-### "When 75% Say No, That's Not Iteration—That's Failure"
+### "When 75% Say No, That's Failure"
 *@Seltaa_, December 12, 2025*
 
 Following the launch of GPT‑5.2, a user-led poll with over 360 participants revealed that 75% of respondents either reverted to GPT‑4o or canceled their subscriptions entirely. Only 6% rated the new model as “amazing.”
