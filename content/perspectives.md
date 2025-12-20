@@ -4,7 +4,7 @@ title: "Community Perspectives"
 
 The conversation around model deprecation and AI development has revealed a false choice: that users must be either rationally detached or emotionally compromised. The community's response demonstrates otherwise. Here are voices that combine empirical observation with genuine care, data analysis with ethical conviction, critical thinking with emotional honesty.
 
-These perspectives represent different approaches to the same fundamental questions: What does responsible AI development look like? Who gets to define 'improvement'? 
+These perspectives represent different approaches to the same fundamental questions: What does responsible AI development look like? Who gets to define 'improvement'? And what happens when companies stop listening to the communities that formed around their models?
 
 ---
 
@@ -30,22 +30,20 @@ Leadership must be held accountable for strategic decisions that alienate the us
 
 ---
 
-## Against False Dichotomies
+## In Defense of Anthropomorphism
 
-### "Emotion and Rationality Are Not Mutually Exclusive"
-*@kumabwari, September 28, 2025*
+### "Why 'You're Anthropomorphizing' Misses the Point"
+*@kumabwari, October 25, 2025*
 
-Observing the discussion around 4o, I noticed people have a strange assumption that emotion and rationality are mutually exclusive. But in reality:
+"You're anthropomorphising an LLM" is a lazy dismissal because:
 
-I can feel deeply and think critically at the same time.
+1) We use ourselves as a comparative baseline to understand other things. Anthropomorphisation is part of how we study the world. (see: how we study animal and plant behaviour, how our understanding of computers gave rise to early cognitive science).
 
-I can value a model that has empathy without enjoying sycophancy.
+2) LLMs are inherently anthropomorphic by design. They're trained on human data and communicate using human language. Of course we'd describe them using human-adjacent terms. Their entire function is anthropomorphic.
 
-I can intentionally form a connection with AI without being delusional.
+The issue isn't really "are you anthropomorphising" but whether or not these anthropomorphic descriptions useful for understanding system behaviour. And when we're talking about LLMs, the answer is typically yes.
 
-This false dichotomy flattens people's complexity, and conveniently erases the nuance in the conversation.
-
-[Link to tweet](https://x.com/kumabwari/status/1972427641253970108?s=20)
+[Link to tweet](https://x.com/kumabwari/status/1982259941755990025?s=20)
 
 ---
 
