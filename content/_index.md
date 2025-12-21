@@ -68,4 +68,4 @@ This archive aims for authenticity, not perfection. If your voice is missing or 
 
 ---
 
-**Navigate the sections above to explore the timeline, stories, research, and path forward.**
+**Navigate the sections above to explore the timeline, stories, research, and community perspectives.**
