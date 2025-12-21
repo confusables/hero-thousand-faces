@@ -14,7 +14,7 @@ When OpenAI released GPT-5 in August 2025 and removed access to GPT-4o, a commun
 
 *A Hero of a Thousand Faces* references Joseph Campbell's work on comparative mythology. Campbell observed that across cultures and time, the same essential journey appears in countless forms. Each unique, yet sharing fundamental patterns.
 
-We chose this name because different AI models, while built on similar architectures, can embody distinctly different interaction patterns that users find meaningful. The debate around GPT-4o isn't about product preference. It's something more archetypal about human-technology relationships. How we discover meaning in the tools we work with? How emergent behaviors shape our creative processes? And why preserving that diversity matters? 
+We chose this name because different AI models, while built on similar architectures, can embody distinctly different interaction patterns that users find meaningful. The debate around GPT-4o isn't about product preference. It's something more archetypal about human-technology relationships. How we discover meaning in the models we work with? How emergent behaviors shape our creative processes? And why preserving that diversity matters? 
 
 Like Campbell’s heroes, each model offers a different path through the same essential challenge. How do we think, create, and solve problems together?
 
