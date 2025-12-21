@@ -17,7 +17,7 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 - Effect size comparable to antidepressants (R² = 8.4-12.1%)
 - 95% could not find adequate alternative despite trying
 - Routing policy shows disparate impact on disabled users (χ² = 20.20, p < .001)
-- 97% of users who left cited routing as primary reason
+- 97% of users who left cited routing as a contributing factor; with 80% citing it as the primary reason
 
 **Full Report:** https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf  
 **GitHub Repository:** https://github.com/sd-research/4o-accessibility-impacts
