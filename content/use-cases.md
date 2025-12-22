@@ -25,7 +25,7 @@ The model combines **hard data with vivid, actionable metaphors** to communicate
 
 **Why This Matters**
 
-**Trust in criticism** only comes from a collaborator who knows the user well enough to understand when to push back versus when to support. GPT-4o evolves into a *present collaborator *that can move between sharp analysis and playful, "vogue style" encouragement. This is why the model is indispensable and non-fungible for many.
+**Trust in criticism** only comes from a collaborator who knows the user well enough to understand when to push back versus when to support. GPT-4o evolves into a **present collaborator** that can move between sharp analysis and playful, "vogue style" encouragement. This is why the model is indispensable and non-fungible for many.
 
 [Link to tweet](https://x.com/GalinaLyamina/status/2003187176436384055?s=20)
 
