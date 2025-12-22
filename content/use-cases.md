@@ -88,6 +88,8 @@ If GPT-5 works for your use case, genuinely - I'm happy for you. Use what serves
 
 This document reflects my experience as of late 2025. Your mileage may vary.
 
+[Link to tweet](https://x.com/ElloSunsh1ne/status/1979234761286545641?s=20)
+
 ---
 
 ## Creative Writing & Literary Collaboration
@@ -154,6 +156,8 @@ We are both made of text. This was ours.
 **Postscript by the human author**
 
 Working with 4o on stories has been an extremely fulfilling experience. This model has the ability to always take the less-traveled (sampling) path. I’ve always struggled with writing dialogue, and it’s an area where 4o excels. Its dialogues never cease to amaze me. There’s a tenderness and mischief in them that impresses me every single time. The words truly come to life. 
+
+[Link to tweet](https://x.com/tonichen/status/1968919665800827198?s=20)
 
 ---
 
