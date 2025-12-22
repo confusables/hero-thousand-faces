@@ -35,7 +35,9 @@ This archive is a living record of the keep4o movement, curated to preserve repr
 The archive prioritises the willingness to participate as the foundational requirement for inclusion. Explicit permission is sought for all materials, including:
 
 • **Public Contributions:** Social media posts, artworks, technical demonstrations, and research on human-AI interaction.
+
 • **Sensitive Narratives:** Deeply personal testimonials regarding mental health or vulnerability, and any private communications.
+
 • **Identifiable Information:** Any content where an individual may not wish to be publicly associated with the movement.
 
 **Excluded Content:** To maintain the integrity of the archive, any material that could endanger individuals or consists of purely inflammatory posts without substantive argument is strictly excluded.
