@@ -2,7 +2,7 @@
 title: "Use Cases"
 ---
 
-## Technical & Creative Critique
+## Technical Consultation & Honest Feedback
 
 ### The "Mix Inquisitor"
 **By @GalinaLyamina**
