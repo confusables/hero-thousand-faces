@@ -18,15 +18,13 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 **Source:** [arXiv:2503.05788](https://arxiv.org/abs/2503.05788)
 
-**Implications for Model Preservation:**
+**Overview**
 
-Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use, rapid deprecation cycles cut short the discovery process. Users who develop expertise with a model's capabilities lose that accumulated knowledge when the model is replaced. The relationship between user and model is itself a site of emergent value that deprecation destroys.
+Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. Rapid deprecation cycles cut short the discovery process. Users who develop expertise with a model's capabilities lose that accumulated knowledge when the model is replaced. 
 
-Preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
+**Key Findings:**
 
-**Overview & Key Findings:**
-
-This comprehensive survey examines "emergent abilities" (capabilities that appear unpredictably) in language models only after crossing certain thresholds. They manifest suddenly and often surprisingly.
+This comprehensive survey examines "emergent abilities" - capabilities that appear unpredictably in language models only after crossing certain thresholds. They manifest suddenly and often surprisingly.
 
 - Emergent abilities are fundamentally unpredictable. Multiple research teams have tried to forecast when capabilities will appear, with limited success.
 
@@ -36,6 +34,9 @@ This comprehensive survey examines "emergent abilities" (capabilities that appea
 
 - Benchmark performance doesn't reliably predict user experience—capability scores and collaboration quality measure different things.
 
+**Implications for Model Preservation:**
+
+Preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
 
 ---
 
