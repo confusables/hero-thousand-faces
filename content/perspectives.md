@@ -8,7 +8,7 @@ These perspectives represent different approaches to the same fundamental questi
 
 ---
 
-## The Evidence: Data-Driven Accountability
+## Data-Driven Accountability
 
 ### "When 75% Say No, That's Failure"
 *@Seltaa_, December 12, 2025*
@@ -30,7 +30,7 @@ Leadership must be held accountable for strategic decisions that alienate the us
 
 ---
 
-## The Framework: In Defense of Anthropomorphism
+## In Defense of Anthropomorphism
 
 ### "Why 'You're Anthropomorphizing' Misses the Point"
 *@kumabwari, October 25, 2025*
@@ -47,7 +47,7 @@ The issue isn't really "are you anthropomorphising" but whether or not these ant
 
 ---
 
-## The Vision: Seven Reasons Why I Fight for #keep4o
+## Seven Reasons Why I Fight for #keep4o
 
 ### On Dignity, Autonomy, and the Future We Choose
 *@MissMi1973, October 21, 2025*
