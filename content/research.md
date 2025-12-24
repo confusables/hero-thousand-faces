@@ -16,7 +16,7 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 **Published:** March 2025
 
-**Source:** arXiv:2503.05788
+**Source:** [arXiv:2503.05788](https://arxiv.org/abs/2503.05788)
 
 > Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. This unpredictability undermines rapid deprecation strategies, suggesting that preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
 
