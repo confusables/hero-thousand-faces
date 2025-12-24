@@ -6,23 +6,12 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 ---
 
-## Community Accessibility Impact Survey
+## Emergent Abilities in Large Language Models: A Survey
 
-**Authors:** Duchesne, S. (Ph.D. Candidate, Plant Science) & Xu, S. (M.A.)  
-**Published:** December 18, 2025  
-**Sample:** 645 respondents (current and former GPT-4o users)
+*Critical analysis developed in collaboration with Claude Opus 4.5*
 
-**Key Findings:**
-- 65% of users with disabilities/conditions use GPT-4o as significant or critical accessibility aid
-- Effect size comparable to antidepressants (R² = 8.4-12.1%)
-- 95% could not find adequate alternative despite trying
-- Routing policy shows disparate impact on disabled users (χ² = 20.20, p < .001)
-- 97% of users who left cited routing as a contributing factor; 80% citing it as the primary reason
 
-**Full Report:** https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf  
-**GitHub Repository:** https://github.com/sd-research/4o-accessibility-impacts
-
-*This independent research provides quantitative evidence complementing the qualitative narratives documented in [Stories & Voices](/hero-thousand-faces/stories/).*
+> Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. This unpredictability undermines rapid deprecation strategies, suggesting that preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
 
 ---
 
@@ -96,6 +85,25 @@ None of these qualities appear in GDPval or similar evaluations. They're real, t
 ---
 
 *Analysis based on: OpenAI (2025). "GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks." arXiv:2510.04374. Developed in collaboration with Claude Opus 4.1, demonstrating that critical evaluation can transcend model allegiance.*
+
+
+---
+
+
+## Community Accessibility Impact Survey
+
+**Researchers:** Duchesne, S. & Xu, S.  
+**Status:** Initial survey complete; follow-up study in progress  
+**Sample:** 645 respondents (current and former GPT-4o users)
+
+**Key Findings:**
+- 65% of users with disabilities/conditions use GPT-4o as significant or critical accessibility aid
+- Effect size comparable to antidepressants (R² = 8.4-12.1%)
+- 95% could not find adequate alternative despite trying
+- Routing policy shows disparate impact on disabled users (χ² = 20.20, p < .001)
+- 97% of users who left cited routing as a contributing factor
+
+*A follow-up study examining mechanisms and distinct use patterns is currently underway.*
 
 ---
 

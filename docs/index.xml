@@ -35,20 +35,10 @@
       <guid>https://confusables.github.io/hero-thousand-faces/research/</guid>
       <description>&lt;p&gt;This section contains analytical work documenting GPT-4o&amp;rsquo;s capabilities, impacts, and the effects of policy changes.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;community-accessibility-impact-survey&#34;&gt;Community Accessibility Impact Survey&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Duchesne, S. (Ph.D. Candidate, Plant Science) &amp;amp; Xu, S. (M.A.)&lt;br&gt;
-&lt;strong&gt;Published:&lt;/strong&gt; December 18, 2025&lt;br&gt;
-&lt;strong&gt;Sample:&lt;/strong&gt; 645 respondents (current and former GPT-4o users)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Findings:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;65% of users with disabilities/conditions use GPT-4o as significant or critical accessibility aid&lt;/li&gt;
-&lt;li&gt;Effect size comparable to antidepressants (R² = 8.4-12.1%)&lt;/li&gt;
-&lt;li&gt;95% could not find adequate alternative despite trying&lt;/li&gt;
-&lt;li&gt;Routing policy shows disparate impact on disabled users (χ² = 20.20, p &amp;lt; .001)&lt;/li&gt;
-&lt;li&gt;97% of users who left cited routing as a contributing factor; 80% citing it as the primary reason&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Report:&lt;/strong&gt; &lt;a href=&#34;https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf&#34;&gt;https://sd-research.github.io/4o-accessibility-impacts/GPT-4o_Accessibility_Impacts_Report.pdf&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;GitHub Repository:&lt;/strong&gt; &lt;a href=&#34;https://github.com/sd-research/4o-accessibility-impacts&#34;&gt;https://github.com/sd-research/4o-accessibility-impacts&lt;/a&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;emergent-abilities-in-large-language-models-a-survey&#34;&gt;Emergent Abilities in Large Language Models: A Survey&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Critical analysis developed in collaboration with Claude Opus 4.5&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. This unpredictability undermines rapid deprecation strategies, suggesting that preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stories &amp; Voices</title>
