@@ -11,8 +11,11 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 *Critical analysis developed in collaboration with Claude Opus 4.5*
 
 **Authors:** Berti, L., Giorgi, F., & Kasneci, G.
+
 **Institutions:** Technical University of Munich; Sapienza University of Rome
+
 **Published:** March 2025
+
 **Source:** arXiv:2503.05788
 
 > Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. This unpredictability undermines rapid deprecation strategies, suggesting that preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
