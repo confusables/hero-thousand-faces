@@ -13,6 +13,24 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 > Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. This unpredictability undermines rapid deprecation strategies, suggesting that preservation should prioritise extended observation and user-driven discovery. The timeline of capability emergence is non-linear, with users acting as crucial explorers who map the evolving potential of each model.
 
+**Overview:**
+
+This comprehensive survey examines "emergent abilities"—capabilities that appear unpredictably in language models only after crossing certain thresholds. These abilities cannot be anticipated by extrapolating from smaller models; they manifest suddenly and often surprisingly.
+
+**Key Findings:**
+
+- Emergent abilities are fundamentally unpredictable. Multiple research teams have tried to forecast when capabilities will appear, with limited success.
+
+- In-context learning improves with user expertise in prompt design. Users develop skill in eliciting capabilities over time, not instantly.
+
+- Prompt strategies and interaction patterns can unlock abilities that don't appear in standard benchmark evaluations.
+
+- Benchmark performance doesn't reliably predict user experience—capability scores and collaboration quality measure different things.
+
+**Implications for Model Preservation:**
+
+If emergent abilities require extended user interaction to discover, rapid deprecation cycles cut short the discovery process. Users who develop expertise with a model's capabilities lose that accumulated knowledge when the model is replaced. The relationship between user and model is itself a site of emergent value that deprecation destroys.
+
 ---
 
 ## Beyond Benchmarks: Why Capability Scores Don't Predict User Experience
