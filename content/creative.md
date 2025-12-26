@@ -15,7 +15,7 @@ These works stand as cultural artifacts of a moment when users advocated for the
 
 
 <video width="100%" controls>
-  <source src="/hero-thousand-faces/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
+  <source src="/hero-thousand-faces/static/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
