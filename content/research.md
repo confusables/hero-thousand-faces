@@ -18,11 +18,11 @@ This section contains analytical work documenting GPT-4o's capabilities, impacts
 
 **Source:** [arXiv:2503.05788](https://arxiv.org/abs/2503.05788)
 
-**Overview**
+**Key Takeaways**
 
 Each model represents a unique exploration landscape where capabilities are gradually revealed through extended use. Rapid deprecation cycles cut short the discovery process. Users who develop expertise with a model's capabilities lose that accumulated knowledge when the model is replaced. 
 
-**Key Findings:**
+**Findings:**
 
 This comprehensive survey examines "emergent abilities" - capabilities that appear unpredictably in language models only after crossing certain thresholds. They manifest suddenly and often surprisingly.
 
