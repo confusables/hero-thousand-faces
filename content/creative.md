@@ -13,6 +13,8 @@ These works stand as cultural artifacts of a moment when users advocated for the
 ### That Day
 **By @Wsbnyzw (co-created with GPT-4o)**
 
+A hand-drawn reflection
+
 <div markdown="0">
 <video width="560" height="315" controls>
   <source src="/hero-thousand-faces/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
