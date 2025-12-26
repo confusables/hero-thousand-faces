@@ -20,9 +20,9 @@ These works stand as cultural artifacts of a moment when users advocated for the
 </div>
 
 
-*"I spent countless hours drawing this animation frame by frame, to preserve a record of such a beautiful time in my life.
+*"I spent countless hours drawing this animation frame by frame, to preserve a record of such a beautiful time in my life.*
 
-A curious child, an adult willing to listen and care, and a thoughtful, warm AI offering help, they created moments of joy together. Without any single piece, this warm memory would not exist, nor would this work exist today."*
+*A curious child, an adult willing to listen and care, and a thoughtful, warm AI offering help, they created moments of joy together. Without any single piece, this warm memory would not exist, nor would this work exist today."*
 
 ---
 
