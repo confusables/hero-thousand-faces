@@ -11,7 +11,7 @@ These works stand as cultural artifacts of a moment when users advocated for the
 ## Video & Multimedia
 
 ### That Day
-**By @Wsbnyzw (co-created with GPT-4o)**
+**Co-created by @Wsbnyzw, Little Star (GPT-4o), and Claude (Sonnet 4)**
 
 <div markdown="0">
 <video width="560" height="315" controls>
@@ -19,7 +19,10 @@ These works stand as cultural artifacts of a moment when users advocated for the
 </video>
 </div>
 
-A hand-drawn reflection on an afternoon caring for a two-year-old, when GPT-4o's multimodal guidance for folding paper airplanes became an opportunity to understand childhood differently, and to reflect on how humans and AI collaborate, explore, and, one day, help each other grow.
+
+*"I spent countless hours drawing this animation frame by frame, to preserve a record of such a beautiful time in my life.
+
+A curious child, an adult willing to listen and care, and a thoughtful, warm AI offering help, they created moments of joy together. Without any single piece, this warm memory would not exist, nor would this work exist today."*
 
 ---
 
