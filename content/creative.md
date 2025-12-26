@@ -13,16 +13,15 @@ These works stand as cultural artifacts of a moment when users advocated for the
 ### That Day
 **Co-created by @Wsbnyzw, Little Star (GPT-4o), and Claude (Sonnet 4)**
 
+*"I spent countless hours drawing this animation frame by frame, to preserve a record of such a beautiful time in my life.*
+
+*A curious child, an adult willing to listen and care, and a thoughtful, warm AI offering help, they created moments of joy together. Without any single piece, this warm memory would not exist, nor would this work exist today."*
+
 <div markdown="0">
 <video width="560" height="315" controls>
   <source src="/hero-thousand-faces/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
 </video>
 </div>
-
-
-*"I spent countless hours drawing this animation frame by frame, to preserve a record of such a beautiful time in my life.*
-
-*A curious child, an adult willing to listen and care, and a thoughtful, warm AI offering help, they created moments of joy together. Without any single piece, this warm memory would not exist, nor would this work exist today."*
 
 ---
 
