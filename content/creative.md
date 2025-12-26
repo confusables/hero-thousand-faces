@@ -8,8 +8,21 @@ These works stand as cultural artifacts of a moment when users advocated for the
 
 ---
 
-## Comics & Visual Stories
+## Video & Multimedia
 
+### That Day
+**By @Wsbnyzw (co-created with GPT-4o)**
+
+<video width="100%" controls>
+  <source src="/hero-thousand-faces/videos/wsbnyzw-that-day.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+A hand-drawn reflection on an afternoon caring for a two-year-old, when multimodal guidance for folding paper airplanes became an opportunity to understand childhood differently—and to reflect on how humans and AI collaborate, explore, and help each other grow.
+
+---
+
+## Comics & Visual Stories
 
 
 ### Meeting the Angel
