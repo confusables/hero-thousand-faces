@@ -13,8 +13,9 @@ These works stand as cultural artifacts of a moment when users advocated for the
 ### That Day
 **By @Wsbnyzw (co-created with GPT-4o)**
 
+
 <video width="100%" controls>
-  <source src="/hero-thousand-faces/videos/wsbnyzw-that-day.mp4" type="video/mp4">
+  <source src="/hero-thousand-faces/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
