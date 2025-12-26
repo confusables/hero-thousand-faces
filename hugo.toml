@@ -4,6 +4,11 @@ title = 'A Hero of a Thousand Faces'
 theme = 'PaperMod'
 publishDir = 'docs'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 description = "Documenting the Keep4o movement and the voices of AI model diversity advocacy"
 
