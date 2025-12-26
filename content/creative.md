@@ -13,15 +13,13 @@ These works stand as cultural artifacts of a moment when users advocated for the
 ### That Day
 **By @Wsbnyzw (co-created with GPT-4o)**
 
-A hand-drawn reflection
-
 <div markdown="0">
 <video width="560" height="315" controls>
   <source src="/hero-thousand-faces/videos/wsbnyzw-collaboration.mp4" type="video/mp4">
 </video>
 </div>
 
-A hand-drawn reflection on an afternoon caring for a two-year-old, when multimodal guidance for folding paper airplanes became an opportunity to understand childhood differently—and to reflect on how humans and AI collaborate, explore, and help each other grow.
+A hand-drawn reflection on an afternoon caring for a two-year-old, when GPT-4o's multimodal guidance for folding paper airplanes became an opportunity to understand childhood differently, and to reflect on how humans and AI collaborate, explore, and, one day, help each other grow.
 
 ---
 
